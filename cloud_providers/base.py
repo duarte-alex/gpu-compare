@@ -5,7 +5,6 @@ from pydantic import BaseModel
 class GPU(BaseModel):
     name: str
     zone: str
-    maximumCardsPerInstance: int
 
 class CloudProvider(ABC):
     @abstractmethod

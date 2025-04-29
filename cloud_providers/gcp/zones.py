@@ -1,4 +1,4 @@
-from .models import GCPZone, GCPZoneNames
+from cloud_providers.gcp.models import GCPZone, GCPZoneNames
 
 ZONES: list[GCPZone] = [
     # US Central

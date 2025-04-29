@@ -52,8 +52,8 @@ async def main():
             "Description": description,
         })
 
-    # Store the GPU records in the Postgres table.
-    store_gpus(gpu_data_for_db)
+    # Store the GPU in the Postgres table
+    #store_gpus(gpu_data_for_db)
 
 if __name__ == "__main__":
     asyncio.run(main())

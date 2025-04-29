@@ -1,3 +1,3 @@
-from cloud_providers.gcp import GoogleCloudProvider
+from cloud_providers.gcp.provider import GoogleCloudProvider
 
 __all__ = ["GoogleCloudProvider"]
