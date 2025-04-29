@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 import json
 from typing import List
 from cloud_providers import GPU
+from cloud_providers.gcp.models import GCPGPUSKU
 
-def save_to_json(path: str, data: List[GPU]):
-    # convert each GPU into a plain dict
+def save_to_json(path: str, data: List[GCPGPUSKU]):
     serializable = [
         {
             "name": gpu.name,

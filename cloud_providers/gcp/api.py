@@ -1,12 +1,9 @@
 # api.py
 
 from aiohttp import ClientSession
-from google.auth.transport.requests import Request
-from google.oauth2.service_account import Credentials
 from cloud_providers.gcp.models import GCPZone, GCPAcceleratorTypeList
 from cloud_providers import GPU
 from cloud_providers.gcp.zones import ZONES
-import asyncio
 
 async def fetch_gpus_in_zone(session: ClientSession, token: str, project_id: str, zone: GCPZone) -> list[GPU]:
     """Fetches all the GPUs in a given zone."""
@@ -32,8 +29,7 @@ async def fetch_gpus_in_zone(session: ClientSession, token: str, project_id: str
         gpus.append(
             GPU(
                 name=description,
-                zone=zone,
-                maximumCardsPerInstance=item.maximumCardsPerInstance,
+                zone=zone
             )
         )
 

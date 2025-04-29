@@ -1,874 +1,1092 @@
 [
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-central1-a"
+        "zone": "us-central1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA B200 180GB",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-central1-b"
+        "zone": "us-central1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-central1-c"
+        "zone": "us-central1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-central1-f"
+        "zone": "us-central1-f",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-central1-f"
+        "zone": "us-central1-f",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-central1-f"
+        "zone": "us-central1-f",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-central1-f"
+        "zone": "us-central1-f",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-east1-b"
+        "zone": "us-east1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-east1-b"
+        "zone": "us-east1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-east1-b"
+        "zone": "us-east1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-east1-c"
+        "zone": "us-east1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-east1-c"
+        "zone": "us-east1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-east1-c"
+        "zone": "us-east1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-east1-c"
+        "zone": "us-east1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-east1-d"
+        "zone": "us-east1-d",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-east1-d"
+        "zone": "us-east1-d",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-east4-a"
+        "zone": "us-east4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-east4-a"
+        "zone": "us-east4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-east4-a"
+        "zone": "us-east4-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-east4-a"
+        "zone": "us-east4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-east4-a"
+        "zone": "us-east4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA B200 180GB",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-east4-b"
+        "zone": "us-east4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-east4-c"
+        "zone": "us-east4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-east5-a"
+        "zone": "us-east5-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-east5-a"
+        "zone": "us-east5-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "us-east5-a"
+        "zone": "us-east5-a",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "us-east5-b"
+        "zone": "us-east5-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-west1-a"
+        "zone": "us-west1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "us-west1-b"
+        "zone": "us-west1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "us-west1-c"
+        "zone": "us-west1-c",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-west1-c"
+        "zone": "us-west1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-west2-b"
+        "zone": "us-west2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west2-b"
+        "zone": "us-west2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "us-west2-c"
+        "zone": "us-west2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west2-c"
+        "zone": "us-west2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA B200 180GB",
-        "zone": "us-west3-b"
+        "zone": "us-west3-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-west3-b"
+        "zone": "us-west3-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west3-b"
+        "zone": "us-west3-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "us-west4-a"
+        "zone": "us-west4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "us-west4-a"
+        "zone": "us-west4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-west4-a"
+        "zone": "us-west4-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west4-a"
+        "zone": "us-west4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "us-west4-b"
+        "zone": "us-west4-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "us-west4-b"
+        "zone": "us-west4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "us-west4-c"
+        "zone": "us-west4-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "us-south1-b"
+        "zone": "us-south1-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "northamerica-northeast1-a"
+        "zone": "northamerica-northeast1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "northamerica-northeast1-b"
+        "zone": "northamerica-northeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "northamerica-northeast1-c"
+        "zone": "northamerica-northeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "northamerica-northeast1-c"
+        "zone": "northamerica-northeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "northamerica-northeast2-a"
+        "zone": "northamerica-northeast2-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "northamerica-northeast2-b"
+        "zone": "northamerica-northeast2-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "northamerica-northeast2-c"
+        "zone": "northamerica-northeast2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "northamerica-northeast2-c"
+        "zone": "northamerica-northeast2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-north1-c"
+        "zone": "europe-north1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-north1-c"
+        "zone": "europe-north1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-central2-b"
+        "zone": "europe-central2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-central2-c"
+        "zone": "europe-central2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H200 141GB",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "unkown"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west1-b"
+        "zone": "europe-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west1-c"
+        "zone": "europe-west1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west1-c"
+        "zone": "europe-west1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west1-c"
+        "zone": "europe-west1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west1-c"
+        "zone": "europe-west1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "europe-west1-d"
+        "zone": "europe-west1-d",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west1-d"
+        "zone": "europe-west1-d",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west2-a"
+        "zone": "europe-west2-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west2-a"
+        "zone": "europe-west2-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west2-b"
+        "zone": "europe-west2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west2-b"
+        "zone": "europe-west2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west2-b"
+        "zone": "europe-west2-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west2-b"
+        "zone": "europe-west2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west3-a"
+        "zone": "europe-west3-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west3-a"
+        "zone": "europe-west3-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west3-a"
+        "zone": "europe-west3-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west3-b"
+        "zone": "europe-west3-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west3-b"
+        "zone": "europe-west3-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west3-c"
+        "zone": "europe-west3-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west3-c"
+        "zone": "europe-west3-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "europe-west4-a"
+        "zone": "europe-west4-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "europe-west4-b"
+        "zone": "europe-west4-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "europe-west4-c"
+        "zone": "europe-west4-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west6-b"
+        "zone": "europe-west6-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "europe-west6-c"
+        "zone": "europe-west6-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-east1-a"
+        "zone": "asia-east1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "asia-east1-a"
+        "zone": "asia-east1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-east1-a"
+        "zone": "asia-east1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-east1-b"
+        "zone": "asia-east1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA V100",
-        "zone": "asia-east1-c"
+        "zone": "asia-east1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-east2-a"
+        "zone": "asia-east2-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-east2-c"
+        "zone": "asia-east2-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-northeast1-a"
+        "zone": "asia-northeast1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-northeast1-a"
+        "zone": "asia-northeast1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-northeast1-a"
+        "zone": "asia-northeast1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-northeast1-b"
+        "zone": "asia-northeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-northeast1-b"
+        "zone": "asia-northeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-northeast1-b"
+        "zone": "asia-northeast1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-northeast1-c"
+        "zone": "asia-northeast1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-northeast1-c"
+        "zone": "asia-northeast1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-northeast1-c"
+        "zone": "asia-northeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-northeast3-a"
+        "zone": "asia-northeast3-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-northeast3-a"
+        "zone": "asia-northeast3-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-northeast3-a"
+        "zone": "asia-northeast3-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-northeast3-a"
+        "zone": "asia-northeast3-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-northeast3-b"
+        "zone": "asia-northeast3-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-northeast3-b"
+        "zone": "asia-northeast3-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-northeast3-b"
+        "zone": "asia-northeast3-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-northeast3-c"
+        "zone": "asia-northeast3-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-northeast3-c"
+        "zone": "asia-northeast3-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-northeast3-c"
+        "zone": "asia-northeast3-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-south1-a"
+        "zone": "asia-south1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-south1-a"
+        "zone": "asia-south1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-south1-b"
+        "zone": "asia-south1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-south1-b"
+        "zone": "asia-south1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-south1-c"
+        "zone": "asia-south1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-south1-c"
+        "zone": "asia-south1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-south1-c"
+        "zone": "asia-south1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-southeast1-a"
+        "zone": "asia-southeast1-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-southeast1-a"
+        "zone": "asia-southeast1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-southeast1-b"
+        "zone": "asia-southeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA A100 80GB",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-southeast1-c"
+        "zone": "asia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-southeast2-a"
+        "zone": "asia-southeast2-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "asia-southeast2-b"
+        "zone": "asia-southeast2-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "australia-southeast1-a"
+        "zone": "australia-southeast1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "australia-southeast1-a"
+        "zone": "australia-southeast1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA TESLA P100",
-        "zone": "australia-southeast1-b"
+        "zone": "australia-southeast1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA TESLA P4",
-        "zone": "australia-southeast1-b"
+        "zone": "australia-southeast1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB",
-        "zone": "australia-southeast1-c"
+        "zone": "australia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA H100 80GB MEGA",
-        "zone": "australia-southeast1-c"
+        "zone": "australia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "australia-southeast1-c"
+        "zone": "australia-southeast1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "southamerica-east1-a"
+        "zone": "southamerica-east1-a",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "southamerica-east1-c"
+        "zone": "southamerica-east1-c",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "me-central2-a"
+        "zone": "me-central2-a",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA L4",
-        "zone": "me-central2-c"
+        "zone": "me-central2-c",
+        "efficiency": "Low"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "me-west1-a"
+        "zone": "me-west1-a",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "me-west1-b"
+        "zone": "me-west1-b",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "me-west1-b"
+        "zone": "me-west1-b",
+        "efficiency": "Medium"
     },
     {
         "name": "NVIDIA A100 40GB",
-        "zone": "me-west1-c"
+        "zone": "me-west1-c",
+        "efficiency": "High"
     },
     {
         "name": "NVIDIA T4",
-        "zone": "me-west1-c"
+        "zone": "me-west1-c",
+        "efficiency": "Medium"
     }
 ]
