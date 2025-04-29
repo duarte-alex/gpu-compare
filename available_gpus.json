@@ -1,0 +1,874 @@
+[
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-central1-a"
+    },
+    {
+        "name": "NVIDIA B200 180GB",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-central1-b"
+    },
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-central1-c"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-central1-f"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-central1-f"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-central1-f"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-central1-f"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-east1-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-east1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-east1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-east1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-east1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-east1-c"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-east1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-east1-d"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-east1-d"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-east4-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-east4-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-east4-a"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-east4-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-east4-a"
+    },
+    {
+        "name": "NVIDIA B200 180GB",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-east4-b"
+    },
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-east4-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-east5-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-east5-a"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "us-east5-a"
+    },
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "us-east5-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-west1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "us-west1-b"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "us-west1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-west1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-west2-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west2-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "us-west2-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west2-c"
+    },
+    {
+        "name": "NVIDIA B200 180GB",
+        "zone": "us-west3-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-west3-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west3-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "us-west4-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "us-west4-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-west4-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west4-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "us-west4-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "us-west4-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "us-west4-c"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "us-south1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "northamerica-northeast1-a"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "northamerica-northeast1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "northamerica-northeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "northamerica-northeast1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "northamerica-northeast2-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "northamerica-northeast2-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "northamerica-northeast2-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "northamerica-northeast2-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-north1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-north1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-central2-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-central2-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA H200 141GB",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "europe-west1-d"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west1-d"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west2-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west2-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west2-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west2-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west2-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west2-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west3-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west3-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west3-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west3-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west3-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west3-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west3-c"
+    },
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "europe-west4-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "europe-west4-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "europe-west4-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west6-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "europe-west6-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-east1-a"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "asia-east1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-east1-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-east1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA V100",
+        "zone": "asia-east1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-east2-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-east2-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-northeast1-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-northeast1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-northeast1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-northeast1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-northeast1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-northeast1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-northeast1-c"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-northeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-northeast1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-northeast3-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-northeast3-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-northeast3-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-northeast3-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-northeast3-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-northeast3-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-northeast3-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-northeast3-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-northeast3-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-northeast3-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-south1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-south1-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-south1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-south1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-south1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-south1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-south1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-southeast1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-southeast1-a"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA A100 80GB",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-southeast2-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "asia-southeast2-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "australia-southeast1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "australia-southeast1-a"
+    },
+    {
+        "name": "NVIDIA TESLA P100",
+        "zone": "australia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA TESLA P4",
+        "zone": "australia-southeast1-b"
+    },
+    {
+        "name": "NVIDIA H100 80GB",
+        "zone": "australia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA H100 80GB MEGA",
+        "zone": "australia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "australia-southeast1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "southamerica-east1-a"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "southamerica-east1-c"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "me-central2-a"
+    },
+    {
+        "name": "NVIDIA L4",
+        "zone": "me-central2-c"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "me-west1-a"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "me-west1-b"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "me-west1-b"
+    },
+    {
+        "name": "NVIDIA A100 40GB",
+        "zone": "me-west1-c"
+    },
+    {
+        "name": "NVIDIA T4",
+        "zone": "me-west1-c"
+    }
+]
