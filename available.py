@@ -1,3 +1,5 @@
+# run to get a .json file with the available GPUs
+
 import asyncio
 import os
 from cloud_providers.gcp import GoogleCloudProvider

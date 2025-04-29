@@ -134,5 +134,3 @@ ZONES: list[GCPZone] = [
     GCPZone(name=GCPZoneNames.ME_WEST1_B, carbon_intensity=463),
     GCPZone(name=GCPZoneNames.ME_WEST1_C, carbon_intensity=463),
 ]
-
-ZONES_BY_NAME: dict[GCPZoneNames, GCPZone] = {zone.name: zone for zone in ZONES}
